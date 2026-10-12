@@ -41,7 +41,7 @@ course-archive/ 包括：
 - 部分 Markdown、脚本和记录仍引用原 Windows 本机路径。仓库位置请以 [manifest.json](manifest.json) 的 source/path 对照为准；不要直接执行历史脚本来覆盖现有资料。
 - 绿色办公周资料为虚构练习数据，故意保留的日期冲突没有修正。
 - 仅排除一份以 ~$ 开头的 PowerPoint 临时锁文件；依赖和构建缓存不在本仓库三个资料目录的交接范围内。
-- 本仓库为私有资料库。相关文件在旧公开仓库中的历史版本仍保留；本次分类不改写历史。网站源码见独立的 [AI Tool Lab 网站仓库](https://github.com/philips-ai-tool-lab/ai-tool-lab-preview)。
+- 本仓库为公开资料库，原始内容按原件保留。网站源码见独立的 [AI Tool Lab 网站仓库](https://github.com/philips-ai-tool-lab/ai-tool-lab-preview)。
 
 ## 校验
 
